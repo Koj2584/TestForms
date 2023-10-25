@@ -1,0 +1,11 @@
+G:\Dokumenty\Csharp\TestForm\TestForm\bin\Debug\TestForm.exe.config
+G:\Dokumenty\Csharp\TestForm\TestForm\bin\Debug\TestForm.exe
+G:\Dokumenty\Csharp\TestForm\TestForm\bin\Debug\TestForm.pdb
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.Form2.resources
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.exe
+G:\Dokumenty\Csharp\TestForm\TestForm\obj\Debug\TestForm.pdb
